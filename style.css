@@ -39,9 +39,25 @@ button{
 
 }
 /*-------------------
-      PLAYERS INFO 
+      MIDDLE SECTION 
 ------------------------*/
+.middle-section{
+    padding-top: 70px;
+}
+.neymar{
+    padding-top: 70px;
+    width: 330px;
+    height:474px;
+    margin-left: 180px;
+    box-shadow: 0 0 30px 1px #6a6c77;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 2px;
+    
 
+}
 .neymar img{
     width:300px;
     height: 256px;
