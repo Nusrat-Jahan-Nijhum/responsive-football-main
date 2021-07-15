@@ -1,0 +1,25 @@
+/* -----------------
+     TOP SECTION
+---------------------*/
+.top-container{
+    background-color: rgb(70, 14, 143);
+    display: flex;
+    align-content: center;
+}
+.top-container .top-caption{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: white; 
+    padding-top: 207px;
+    padding-left: 156px;  
+    padding-bottom: 240px;
+}
+.top-container img{
+    width: 556.01px;
+    height: 438px;
+    left: 1299.01px;
+    top: 153px;
+    padding-top:153px ;
+}
