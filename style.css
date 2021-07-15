@@ -8,7 +8,6 @@
     width: 1800px;
 }
 .top-container{
-    /*background-color: #2D25A0;*/
     justify-content: space-between;
     display: flex;
     align-items: center;
@@ -601,5 +600,41 @@ button:hover{
     -------------------*/
 @media only screen and (max-width:360px)
  {
-    
+    .top-section{
+        background-image: url("images/blue\ background.jpg");
+        width: 359px;
+        height:694px;
+    }
+
+    .top-container .top-caption{
+        position: absolute;
+        width: 278px;
+        height: 138px;
+        left: 16px;
+        top: 112px;
+
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 50px;
+        color: #FFFFFF;
+
+    }
+
+    button{
+        display: flex;
+        color: white;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 24px;
+        background: #E02C6D;  
+    }
+
+
+
+
+
+
 }
+
