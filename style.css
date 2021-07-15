@@ -540,15 +540,20 @@ button:hover{
     ---------------*/
     footer {
         margin-top: 800px;
-        margin-left:475px;
+        margin-bottom: 63px;
+        margin-left:480px;
         margin-right: 482px;
         width: 483.87px;
         height: 213px; 
+        align-content: center;
     }
     .footer-image img{
         width: 483px;
         height: 110px;
     }
+    /*---------
+    icon handling
+    ----------*/
     footer .icons{
         display: flex;
         width: 170px;
@@ -574,4 +579,14 @@ button:hover{
     .icon-4 img{
         width: 32px;
         height:32px;
+    }
+    /*--------------
+    COPY RIGHT
+    -----------*/
+    .copy-right p{
+        width: 236px;
+        height: 31px;
+        padding-left: 157px;
+        padding-right: 157px;
+        padding-top: 20px;
     }
