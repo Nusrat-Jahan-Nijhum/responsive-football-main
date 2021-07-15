@@ -3,7 +3,7 @@
 ---------------------*/
 .top-container{
     background-color: rgb(70, 14, 143);
-  justify-content: space-around;
+    justify-content: space-around;
     display: flex;
     align-content: center;
 }
@@ -11,11 +11,21 @@
     font-family: Poppins;
     /*font-style: normal;*/
     font-weight: bold;
-    font-size: 30px;
+    font-size: 40px;
     color: white; 
     padding-top: 207px;
     padding-left: 155px;  
     padding-bottom: 240px;
+}
+button{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 24px;
+    background: #E02C6D;   
+}
+.fa-arrow-right{
+    padding-left:10px;
 }
 .top-container img{
     width: 556.01px;
