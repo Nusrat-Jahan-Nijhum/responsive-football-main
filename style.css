@@ -44,6 +44,10 @@ button{
 .middle-section{
     padding-top: 70px;
 }
+
+/*-----------------
+      NEYMAR
+      -------------- */ 
 .neymar{
     padding-top: 70px;
     width: 330px;
@@ -75,3 +79,398 @@ button{
     height: 104px;
     padding-left: -2px;
 }
+
+
+/*-----------------
+      MESSI
+      -------------- */ 
+      .messi{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .messi img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .messi-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .messi-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+
+
+    /*-----------------
+      RONALDO
+      -------------- */ 
+.ronaldo{
+    padding-top: 70px;
+    width: 330px;
+    height:474px;
+    margin-left: 180px;
+    box-shadow: 0 0 30px 1px #aaacb9;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 2px;   
+}
+.ronaldo img{
+    width:300px;
+    height: 256px;
+    margin: 15px 15px;
+    
+}
+.ronaldo-blog-title{
+    color: #18191F;
+    margin-left: 13px;
+    margin-bottom: 15px;;
+}
+.ronaldo-blog{
+    font-family: Poppins;
+    font-size: 16px;
+    color: #6C6C6C;
+    width:300px;
+    height: 104px;
+    padding-left: -2px;
+}
+
+/*-----------------
+      PAULO
+      -------------- */ 
+      .paulo{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .paulo img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .paulo-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .paulo-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+
+    
+    /*-----------------
+      OZIL
+      -------------- */ 
+      .ozil{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .ozil img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .ozil-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .ozil-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+
+    
+    
+    /*-----------------
+      MAURO
+      -------------- */ 
+      .mauro{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .mauro img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .mauro-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .mauro-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+
+
+      /*-----------------
+         MARIA
+      -------------- */ 
+      .maria{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .maria img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .maria-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .maria-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+    
+
+    
+      /*-----------------
+        KYLIAN
+      -------------- */ 
+      .kylian{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .kylian img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .kylian-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .kylian-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+
+    /*-----------------
+        SALAH
+      -------------- */ 
+      .salah{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .salah img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .salah-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .salah-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+    
+
+    /*-----------------
+        HARRY
+      -------------- */ 
+      .harry{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .harry img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .harry-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .harry-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+
+      /*-----------------
+        KEVIN
+      -------------- */ 
+      .kevin{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .kevin img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .kevin-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .kevin-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+
+      /*-----------------
+        PHILIPPE
+      -------------- */ 
+      .philippe{
+        padding-top: 70px;
+        width: 330px;
+        height:474px;
+        margin-left: 180px;
+        box-shadow: 0 0 30px 1px #aaacb9;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border-radius: 2px;   
+    }
+    .philippe img{
+        width:300px;
+        height: 256px;
+        margin: 15px 15px;
+        
+    }
+    .philippe-blog-title{
+        color: #18191F;
+        margin-left: 13px;
+        margin-bottom: 15px;;
+    }
+    .philippe-blog{
+        font-family: Poppins;
+        font-size: 16px;
+        color: #6C6C6C;
+        width:300px;
+        height: 104px;
+        padding-left: -2px;
+    }
+    
