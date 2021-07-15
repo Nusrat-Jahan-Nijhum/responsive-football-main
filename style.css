@@ -5,7 +5,10 @@
 
 .top-section{
     background-image: url("images/blue\ background.jpg");
+    background-repeat: no-repeat;
     width: 1800px;
+    left: 0px;
+    top: 0px;
 }
 .top-container{
     justify-content: space-between;
@@ -19,7 +22,7 @@
     font-size: 60px;
     color: white; 
     padding-top: 207px;
-    padding-left: 155px;  
+    padding-left: 156px;  
     padding-bottom: 240px;
 }
 button{
@@ -39,9 +42,7 @@ button:hover{
     background: #19cc19; 
 
 }
-.fa-arrow-right{
-    padding-left:10px;
-}
+
 .top-container img{
     width: 556.01px;
     height: 438px;
@@ -505,6 +506,9 @@ button:hover{
     }
 
     /*-----------HIGHLIGHT----------*/
+    .highlight{
+        padding-left: 180px;
+    }
     .highlight-blog{
         overflow-wrap: break-word;
         font: bold;
@@ -538,6 +542,7 @@ button:hover{
         height: 427px;
         left: 717px;
         top:3300px;
+        padding-left: 195px;
        
     }
     /*-------------
@@ -551,6 +556,7 @@ button:hover{
         width: 483.87px;
         height: 213px; 
         align-content: center;
+        padding-left: 190px;
     }
     .footer-image img{
         width: 483px;
@@ -599,7 +605,13 @@ button:hover{
     media queries 
     -------------------*/
 @media only screen and (max-width:360px)
- {
+ {  main{
+    position: absolute;
+    width: 360px;
+    height: 695px;
+    left: 0px;
+    top: 0px;
+ }
     .top-section{
         background-image: url("images/blue\ background.jpg");
         width: 359px;
@@ -610,14 +622,14 @@ button:hover{
         position: absolute;
         width: 278px;
         height: 138px;
-        left: 16px;
-        top: 112px;
+        padding-left: 16px;
+        padding-right: 66px;
+        padding-top:400px;
 
         font-family: Poppins;
         font-style: normal;
         font-weight: bold;
-        font-size: 36px;
-        line-height: 50px;
+        font-size: 20px;
         color: #FFFFFF;
 
     }
@@ -625,13 +637,36 @@ button:hover{
     button{
         display: flex;
         color: white;
-        flex-direction: column;
+        flex-direction: row;
         align-items: flex-start;
-        padding: 10px 24px;
+        padding-left: 20px;
+        padding-right: 24px;
+        padding-right: 10px;
+        padding-bottom: 15px;
         background: #E02C6D;  
     }
+    .fa-arrow-right{
+        padding-left:10px;
+    }
 
+    .top-container img{
+        position: absolute;
+        width: 329px;
+        height: 259.17px;
+       padding-right: 500px;
+        
 
+    }
+    .middle-container{
+        padding-top: 47px;
+     
+    }
+    .player-info{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-row-gap: 24px;  
+        
+    }
 
 
 
