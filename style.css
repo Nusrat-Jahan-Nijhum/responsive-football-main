@@ -509,6 +509,23 @@ button:hover{
         width: 469px;
         height: 309px;
         margin-left:182px;
+        top: 3300px;
+
+    }
+    .highlight-text{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+
+        font-size: 16px;
+        color: #6C6C6C;
+    }
+    button.fa-arrow-right{
+        position: static;
+        width: 173px;
+        height: 44px;
+        left: 0px;
+        top: 265px;
     }
     .highlight-image img{
         position: absolute;
@@ -517,4 +534,44 @@ button:hover{
         left: 717px;
         top:3300px;
        
+    }
+    /*-------------
+    footer
+    ---------------*/
+    footer {
+        margin-top: 800px;
+        margin-left:475px;
+        margin-right: 482px;
+        width: 483.87px;
+        height: 213px; 
+    }
+    .footer-image img{
+        width: 483px;
+        height: 110px;
+    }
+    footer .icons{
+        display: flex;
+        width: 170px;
+        height: 12px;
+        padding-left: 157px;
+        padding-right: 157px;
+        padding-top: 20px;
+        justify-content: space-between;
+
+    }
+    .icon-1 img{
+        width: 32px;
+        height:32px;
+    }
+    .icon-2 img{
+        width: 32px;
+        height:32px;
+    }
+    .icon-3 img{
+        width: 32px;
+        height:32px;
+    }
+    .icon-4 img{
+        width: 32px;
+        height:32px;
     }
