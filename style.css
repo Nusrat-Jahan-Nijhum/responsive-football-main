@@ -12,7 +12,7 @@
     font-family: Poppins;
     /*font-style: normal;*/
     font-weight: bold;
-    font-size: 40px;
+    font-size: 60px;
     color: white; 
     padding-top: 207px;
     padding-left: 155px;  
@@ -20,10 +20,20 @@
 }
 button{
     display: flex;
+    color: white;
     flex-direction: row;
     align-items: flex-start;
     padding: 10px 24px;
-    background: #E02C6D;   
+    background: #E02C6D;  
+}
+button:hover{
+    transform:scale(1.2);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 24px;
+    background: #19cc19; 
+
 }
 .fa-arrow-right{
     padding-left:10px;
@@ -36,13 +46,27 @@ button{
     padding-top:153px ;
     padding-bottom: 86px;
     padding-right: 141px;
-
+}
+.top-container img:hover{
+    width: 556.01px;
+    height: 438px;
+    left: 1299.01px;
+    top: 153px;
+    padding-top:153px ;
+    padding-bottom: 86px;
+    padding-right: 141px;
+    transform: scale(1.5) rotate(10deg);
 }
 /*-------------------
       MIDDLE SECTION 
 ------------------------*/
 .middle-section{
     padding-top: 70px;
+}
+.player-info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap: 30px;  
 }
 
 /*-----------------
